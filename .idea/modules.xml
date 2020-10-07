@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DCpower.iml" filepath="$PROJECT_DIR$/.idea/DCpower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dc_power/.idea/dc_power.iml" filepath="$PROJECT_DIR$/../dc_power/.idea/dc_power.iml" />
     </modules>
   </component>
 </project>

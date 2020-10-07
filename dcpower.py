@@ -30,6 +30,6 @@ for needed_info in to_extract['data']:
                 'RateAmt': plans_data['rateAmt'],
                 'RateTypeName': plans_data['rateTypeName'],
                 'Fee': [{'fee_description': fee_description,
-                            'fee_amount': fee_amount}]}
+                        'fee_amount': fee_amount}]}
 
     print(plans_info)
